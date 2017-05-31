@@ -1,1 +1,2 @@
 # CSCI-271-Random-Numbers
+This programs chooses a random number from 1 to 1000 and allows the user to guess the number. If the user's guess is lower than the random number the program prints <b>"Too Low! Try Again!"</b>, and if the guess is higher than the random number the program prints <b> "Too High! Try again!" </b>. The user gets to continue guessing until the user guesses the correct number. Then the user can play again with a new random number or quit the program. 
